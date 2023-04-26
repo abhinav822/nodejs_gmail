@@ -175,7 +175,6 @@ app.listen(port, () => {
     console.log(`Example app listening at http://localhost:${port}`)
 });
 
-//credentials i will get from google cloud platform in the and credentials are present in google cloud platform at the section 
 
 
 
